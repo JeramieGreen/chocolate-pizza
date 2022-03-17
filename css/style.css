@@ -1,3 +1,47 @@
 *{
   box-sizing: border-box;
 }
+
+body{
+  margin: 60px;
+  align-items: center;
+width: 80%;
+}
+
+header{
+  float: left;
+}
+h1{
+  text-align: left;
+}
+
+div{
+  float: left;
+}
+
+nav{
+  float: right;
+  padding-left: 300px;
+}
+
+a{
+  float: right;
+}
+
+section{
+  float: left;
+  padding-left: 30px;
+}
+
+main{
+  align-items: center;
+}
+
+h1{
+  padding-top: 200px;
+  padding-left: 150px;
+}
+
+p:first-child{
+  padding-left: 30px;
+}
